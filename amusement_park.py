@@ -1,3 +1,5 @@
+# Pricing matrix for an amusement park, pricing based on age brackets
+
 age = 65
 
 if age < 4:
