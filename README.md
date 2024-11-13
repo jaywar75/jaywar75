@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaywar75
-- 👀 I’m interested in learning and understanding software development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on advancing finance technology, specifically tax compliance
+- 👀 I’m interested in learning and understanding software development, launching software company and will lead the product group
+- 🌱 I’m currently learning python, js, node, express, java
+- 💞️ I’m looking to collaborate on advancing and solving business problems with the world's latest and most----------promising technologies
 - 📫 How to reach me jason dot warren at vuluru dot com
 
 <!---
