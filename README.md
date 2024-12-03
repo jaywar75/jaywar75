@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jaywar75
-- 👀 I’m interested in learning and understanding software development, launching software company and will lead the product group
-- 🌱 I’m currently learning python, js, node, express, java
-- 💞️ I’m looking to collaborate on advancing and solving business problems with the world's latest and most----------promising technologies
+- 👋 Hi, I’m Jason @jaywar75
+- 👀 launching software company with a founding team and will lead the product group
+- 🌱 javam, python, jscript, node, express, and angular
+- 💞️ advancing software technologies and solving business problems with the world's latest and most----------promising technologies
 - 📫 How to reach me jason dot warren at vuluru dot com
 
 <!---
