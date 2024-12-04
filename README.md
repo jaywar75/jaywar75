@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jason @jaywar75
-- 👀 launching a startup software company with a founding team and will lead the product group
-- 🌱 java, python, jscript, node, express, and angular - and - mongoDB
+- 👋 Jason @jaywar75
+- 👀 Successful softare startup founding team member, product group leader, inventor, tinkerer
+- 🌱 java, python, js, node.js, express, and angular - and - mongoDB
 - 💞️ advancing software technologies and solving business problems with the world's latest and most----------promising technologies
-- 📫 How to reach me jason dot warren at vuluru dot com
+- 📫 See you online!
 
 <!---
 jaywar75/jaywar75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
