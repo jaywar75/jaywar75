@@ -1,5 +1,5 @@
 - 👋 Jason @jaywar75
-- 👀 Successful startup (software companies) founding team member, product group leader, inventor, tinkerer
+- 👀 Startup (software companies) founding team member, product group leader, inventor, tinkerer
 - 🌱 java, python, js, node.js, express, and angular - and - mongoDB
 - 💞️ advancing software technologies and solving business problems with the world's latest and most----------promising technologies
 - 📫 See you online!
